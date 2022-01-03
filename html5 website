@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>html5gluposti</title>
+    <meta name="description" content="neveroqtno omg">
+    <meta name="keywords" content="google">
+
+    <style type="text/css">
+        #main-header{
+            text-align: center;
+            background-color: black;
+            color:white;
+            padding:10px;
+        }
+   
+        #main-footer{
+            text-align: center;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header id="main-header">
+        <h1>moq sait</h1>
+    </header>
+
+    <a href="learning1.html" target=_blank>ela tuk:D</a>
+
+    <section>
+        <article class="post">
+            <h3>tva e main page</h3>
+            <small>izpolzva se za subcontent(postnato na 18 july primerno)</small>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ad animi, nihil excepturi velit sit nam,
+                placeat magni laborum laudantium, obcaecati aliquid accusamus. Voluptatem, perferendis consequatur sed
+                pariatur ea recusandae sequi et, fugit facere tenetur quia numquam eaque, nostrum quisquam. Voluptatibus
+                nobis adipisci delectus et saepe labore non, qui repellat.</p>
+            <a href="zadacha.html">read more</a>
+        </article>
+
+        <article class="post">
+            <h3>tva e main page2</h3>
+            <small>izpolzva se za subcontent(postnato na 18 july primerno)</small>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ad animi, nihil excepturi velit sit nam,
+                placeat magni laborum laudantium, obcaecati aliquid accusamus. Voluptatem, perferendis consequatur sed
+                pariatur ea recusandae sequi et, fugit facere tenetur quia numquam eaque, nostrum quisquam. Voluptatibus
+                nobis adipisci delectus et saepe labore non, qui repellat.</p>
+        </article>
+
+        <article class="post">
+            <h3>tva e main page3</h3>
+            <small>izpolzva se za subcontent(postnato na 18 july primerno)</small>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ad animi, nihil excepturi velit sit nam,
+                placeat magni laborum laudantium, obcaecati aliquid accusamus. Voluptatem, perferendis consequatur sed
+                pariatur ea recusandae sequi et, fugit facere tenetur quia numquam eaque, nostrum quisquam. Voluptatibus
+                nobis adipisci delectus et saepe labore non, qui repellat.</p>
+        </article>
+    </section>
+
+    <aside>
+        <h3>kategorii</h3>
+        <ul>
+            <li><a href="#">kategoriq 1</a></li>
+            <li><a href="#">kategoriq 2</a></li>
+            <li><a href="#">kategoriq 3</a></li>
+        </ul>
+    </aside>
+
+    <footer id="main-footer">
+        <p>copyright 2017, tva e moq sait we</p>
+    </footer>
+</body>
+
+</html>
